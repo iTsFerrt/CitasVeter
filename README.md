@@ -107,8 +107,5 @@ citas-veterinaria/
 
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
-## Contacto
-
-Tu Nombre - [@tutwitter](https://twitter.com/tutwitter) - email@ejemplo.com
 
 Link del Proyecto: [https://github.com/tu-usuario/citas-veterinaria](https://github.com/tu-usuario/citas-veterinaria) 
